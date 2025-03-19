@@ -1,2 +1,4 @@
 # shivam-portfolio
-shivam github portfolio
+Shivam Github Portfolio
+The small description aboy me ! 
+
